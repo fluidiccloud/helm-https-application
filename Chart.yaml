@@ -1,0 +1,4 @@
+apiVersion: v1
+name: ${CHART_NAME}
+version: ${CHART_VERSION_SEMVER}
+description: ${CHART_DESCRIPTION}

@@ -1,0 +1,9 @@
+deployment:
+  replicas: 1
+  env: {}
+ingress:
+  hosts: []
+image:
+  registry: ""
+  repository: ""
+  tag: ""
